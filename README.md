@@ -1,22 +1,24 @@
 # fe-tools
 
-##编辑器篇：
+##编辑器：
 1. Sublime text
 2. Vim
 3. DW
 
-##环境篇：
+##开发环境：
 1. Node.js
 2. Ruby
-3. Grunt
 
-##文件管理篇：
-1. TortoiseSVN
-2. TortoiseGit
+##文件管理：
+1. SVN
+2. Git
 
-##图片处理篇：
+##图片处理：
 1. Photoshop
 
-##代理篇：
+##抓取代理：
 1. Fiddler
 2. CCProxy
+
+##环境切换：
+1. Host-switcher
