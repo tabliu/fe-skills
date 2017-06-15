@@ -1,24 +1,24 @@
-# fe-tools
+# 前端开发工具大集合
 
-##编辑器：
-1. Sublime text
-2. Vim
-3. DW
+## 编辑器：
+* Sublime text
+* Vim
+* DW
 
-##开发环境：
-1. Node.js
-2. Ruby
+## 开发环境：
+*  Node.js
+* Ruby
 
-##文件管理：
-1. SVN
-2. Git
+## 文件管理：
+*  SVN
+* Git
 
-##图片处理：
-1. Photoshop
+## 图片处理：
+* Photoshop
 
-##抓取代理：
-1. Fiddler
-2. CCProxy
+## 抓取代理：
+* Fiddler
+* CCProxy
 
 ##环境切换：
-1. Host-switcher
+* Host-switcher
